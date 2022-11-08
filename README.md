@@ -1,6 +1,6 @@
 # Financial-calculator-using-python
 
-I buil a financial calculator to:
+I built a financial calculator to:
 
 the NPV of the following cashflows with a discount rate of 10%
 
